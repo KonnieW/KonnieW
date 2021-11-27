@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Konnie Wang!
 ### :computer: I'm currently learning to become a fullstack developer at Springboard Software Engineering Bootcamp.
-### In my spare time I like to study about crypto currency, computer parts, stocks and health.
+### In my spare time I like to study about cryptocurrency, computer parts, stocks and health.
 ### :evergreen_tree: Always trying to become more eco-friendly. 
 ### Feel free to peruse my repositories!
 
