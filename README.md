@@ -6,6 +6,7 @@
 ### Feel free to peruse my repositories!
 
 ### :postbox: How to reach me: wangkonnie@gmail.com
+### Check out what fun things I'm experimenting with on my codepen: https://codepen.io/Konbon
 
 <!--
 **KonnieW/KonnieW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
